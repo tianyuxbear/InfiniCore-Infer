@@ -27,3 +27,12 @@ cache/
 *.txt
 
 *.http
+
+# clangd
+.cache
+
+# uv 
+.python-version
+main.py
+pyproject.toml
+uv.lock
